@@ -46,6 +46,7 @@ h3 {
 .header nav ul {
     display: flex;
     list-style: none;
+    flex-direction: end;
 }
  .header nav ul li a {
     text-decoration: none;
